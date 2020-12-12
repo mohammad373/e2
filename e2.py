@@ -6,7 +6,7 @@ import time
 import socket
 import requests
 from colorama import Fore
-import webbrowesr as web
+import webbrowser as web
 
 def __target__():
     time.sleep(1)
